@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+img{
+	position:absolute;
+}
+.alice{
+  left: 316px;
+  top: 460px;
+}
+.cat{
+  left: 217px;
+  top: 199px;
+}

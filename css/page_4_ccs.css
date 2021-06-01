@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+img{
+	position:absolute;
+}
+.tbc{
+  left: 663px;
+  top: 2354px;
+}

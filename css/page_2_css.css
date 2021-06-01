@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+img{
+	position:absolute;
+}
+.continue{
+  left: 290px;
+  top: 3703px;
+}
